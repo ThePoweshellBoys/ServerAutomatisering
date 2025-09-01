@@ -1,0 +1,1 @@
+New-Item -Path "C:\automatisering" -ItemType Directory -Force
